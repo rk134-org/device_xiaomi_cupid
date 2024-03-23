@@ -94,6 +94,7 @@ ro.hardware.camera=xiaomi
 
 # Dex2oat
 dalvik.vm.dex2oat64.enabled=true
+pm.dexopt.bg-dexopt=everything
 
 # Display
 vendor.display.comp_mask=0
